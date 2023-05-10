@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @chinaPancake
-- 👀 I’m interested in python, weightlifting and powerlifting. In free time I also like to play chess and cook for my close friend and family.
-- 🌱 I’m currently learning django framework
-- 📫 Reach me via e-mail mateusz.placek99@gmail.com or twitter.com/chinaPancake
+- 👀 I’m interested in python, weightlifting and powerlifting. In my free time I like to play chess and cook for my friends and family.
+- 🌱 Since 01.2023 I'm working as a DevOps Engineer
+- 📖 I'm currently learning backend development with Python.
+- 📫 Reach me via e-mail mateusz.placek99@gmail.com
